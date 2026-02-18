@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakin-of-bd&label=Profile%20views&color=0e75b6&style=flat" alt="sakin-of-bd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakin-of-bd" alt="sakin-of-bd" /></a> </p>
-
 - 🌱 I’m currently learning **Operating Systems, Electrical Circuits**
 
 - 📝 I regularly write articles on [https://codeforces.com/blog/sakin_of_bd](https://codeforces.com/blog/sakin_of_bd)
