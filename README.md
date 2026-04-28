@@ -1,32 +1,168 @@
-<h1 align="center">Hi 👋, I'm Md. Abir Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ABIR RAHMAN — GITHUB PROFILE README           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakin-of-bd&label=Profile%20views&color=0e75b6&style=flat" alt="sakin-of-bd" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Operating Systems, Electrical Circuits**
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abir+Rahman+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-- 📝 I regularly write articles on [https://codeforces.com/blog/sakin_of_bd](https://codeforces.com/blog/sakin_of_bd)
+<img src="https://komarev.com/ghpvc/?username=abirrahman26&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/abirrahman26?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" />
 
-- 📫 How to reach me **abirrahman.sakin@gmail.com**
+</div>
 
-- ⚡ Fun fact **I think I am a mad programmer. Because I become unhappy in whole day when I got WA on a Problem's code.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abirrahman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakin-of-bd" height="30" width="40" /></a>
-<a href="https://fb.com/abirrahman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakinofbd" height="30" width="40" /></a>
-<a href="https://instagram.com/abirrahman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakin_porenaaaaa" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abirrahman26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakin_of_bd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/noob_sakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noob_sakin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sakin_of_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sakin_of_bd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abirrahman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakin_of_bd" height="30" width="40" /></a>
-</p>
+## 🧬 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+```js
+const abir = {
+  name:      "Md. Abir Rahman",
+  alias:     "sakin_of_bd",
+  location:  "Bangladesh 🇧🇩",
+  role:      "Frontend Developer & Competitive Programmer",
+  passion:   "Turning ideas into code & solving hard problems",
+  currently: ["Operating Systems", "Electrical Circuits"],
+  funFact:   "I get genuinely upset when I get a Wrong Answer — all day 😤",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirrahman26&show_icons=true&bg_color=97c3b8&locale=en&layout=compact" alt="sakin-of-bd" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirrahman26&show_icons=true&bg_color=92d3b5&locale=en" alt="sakin-of-bd" /></p>
+## 🎯 What I'm Up To
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirrahman26&" alt="abirrahman26" /></p>
+- 🔭 Building frontend projects with **HTML, CSS, JavaScript**
+- 🌱 Deepening knowledge in **Operating Systems & Electrical Circuits**
+- 📝 Writing competitive programming blogs on [Codeforces](https://codeforces.com/blog/sakin_of_bd)
+- 💬 Ask me about **C++, competitive programming, or web development**
+- 📫 Reach me at **abirrahman.sakin@gmail.com**
+- ⚡ Fun fact: A WA verdict ruins my entire day — I'm a mad programmer 🤡
+
+---
+
+## 🏆 Competitive Programming
+
+<!-- ✏️ UPDATE THIS SECTION with your real ratings/rankings -->
+
+| Platform | Handle | Rating / Status |
+|---|---|---|
+| 🟡 **Codeforces** | [sakin_of_bd](https://codeforces.com/profile/sakin_of_bd) | `Specialist` *(update me)* |
+| 🟢 **LeetCode** | [abirrahman26](https://www.leetcode.com/abirrahman26) | `Knight` *(update me)* |
+| 🔵 **CodeChef** | [abirrahman26](https://www.codechef.com/users/abirrahman26) | `3★` *(update me)* |
+| 🟠 **HackerRank** | [noob_sakin](https://www.hackerrank.com/noob_sakin) | `Gold` *(update me)* |
+
+> 💡 *Update the ratings above whenever you level up!*
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abirrahman26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirrahman26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abirrahman26&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<!-- ✏️ UPDATE THIS SECTION — replace with your real projects -->
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| 🔧 **Project One** | *(Add your project description here)* | HTML, CSS, JS | [🔗 Repo](#) |
+| 🚀 **Project Two** | *(Add your project description here)* | C++, Algorithm | [🔗 Repo](#) |
+| 🌐 **Project Three** | *(Add your project description here)* | Java, Android | [🔗 Repo](#) |
+
+> 💡 *Pin your best repos and update this table to match!*
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- ✏️ UPDATE THIS SECTION — paste links to your Codeforces blogs -->
+
+- 📖 [*Add your latest blog title here*](https://codeforces.com/blog/sakin_of_bd)
+- 📖 [*Add another blog post*](https://codeforces.com/blog/sakin_of_bd)
+- 📖 [*And another one*](https://codeforces.com/blog/sakin_of_bd)
+
+---
+
+## 🎯 2025 Goals
+
+<!-- ✏️ UPDATE THIS SECTION each year or quarter -->
+
+- [ ] 🏅 Reach **Expert** on Codeforces
+- [ ] 💡 Solve **500+** problems on LeetCode
+- [ ] 🌐 Build and deploy **3 frontend projects**
+- [ ] 📱 Launch my first **Android app**
+- [ ] 📚 Complete **Operating Systems** coursework
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abirrahman26)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abirrahman26)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abirrahman26)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sakin_of_bd)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/abirrahman26)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/noob_sakin)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abirrahman26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirrahman.sakin@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote I Live By
+
+> *"The only way to learn a new programming language is by writing programs in it."*
+> — Dennis Ritchie
+
+---
+
+*Thanks for visiting my profile! Drop a ⭐ on something if you found it useful!*
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer)
+
+</div>
