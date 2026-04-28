@@ -113,7 +113,7 @@ const abir = {
 | Platform | Handle | Status |
 |---|---|---|
 | 🟩 **TryHackMe** | [abirrahman26](https://tryhackme.com/p/abirrahman26) | Rank #1,332,876 |
-| 🥇 **PicoCTF** | [sakinOfBD](https://play.picoctf.org/users/sakinOfBD) | **Gold** 🥇 |
+| 🥇 **PicoCTF** | [sakinOfBD](https://play.picoctf.org/users/sakinOfBD) | **Newbie**  |
 
 </div>
 
