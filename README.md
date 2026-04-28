@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Md.+Abir+Rahman+%F0%9F%91%8B;CSE+%40+East+West+University+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%8F%86;CTF+Champion+%F0%9F%94%90;AI+%26+Deep+Learning+Researcher+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Md.+Abir+Rahman+%F0%9F%91%8B;CSE+%40+East+West+University+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%8F%86;CTF+Player+%F0%9F%94%90;AI+%26+Machine+Learning+Researcher+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=abirrahman26&label=Profile+Views&color=00d9ff&style=for-the-badge" />
 &nbsp;
