@@ -9,9 +9,10 @@
   <a href="https://abirrahman26.me"><img src="https://img.shields.io/badge/Website-abirrahman26.me-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://blogs.abirrahman26.me"><img src="https://img.shields.io/badge/Writing-Abir's_Unfinished_Thoughts-7c3aed?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
   <a href="https://scholar.google.com/citations?user=8XJ-exEAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Md._Abir_Rahman-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar" /></a>
+  <a href="https://www.researchgate.net/profile/Md-Rahman-1797"><img src="https://img.shields.io/badge/ResearchGate-Md._Abir_Rahman-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://orcid.org/0009-0006-3013-1249"><img src="https://img.shields.io/badge/ORCID-0009--0006--3013--1249-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://linkedin.com/in/abirrahman26"><img src="https://img.shields.io/badge/LinkedIn-abirrahman26-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://codeforces.com/profile/sakin_of_bd"><img src="https://img.shields.io/badge/Codeforces-sakin__of__bd-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="mailto:abirrahman.sakin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -26,22 +27,19 @@
 
 ---
 
-### 🔬 Academic Research & Open Datasets
+### 🔬 Academic Research & Scholarly Presence
 
-#### 1. [TeaLeafVision: An Explainable and Robust Deep Learning Framework for Tea Leaf Disease Classification](https://doi.org/10.48550/arXiv.2512.17987)
-- **Preprint / Paper:** [arXiv:2512.17987](https://doi.org/10.48550/arXiv.2512.17987) · **Dataset:** [Elsevier Data in Brief (DOI: 10.1016/j.dib.2025.111769)](https://doi.org/10.1016/j.dib.2025.111769)
-- **Authors:** Rafi Ahamed, Sidratul Moon Nafsin, **Md. Abir Rahman** *(Corresponding Author)*, Tasnia Tarannum Roza, Munaia Jannat Easha, Abu Raihan.
-- **Summary:** Evaluated DenseNet201, MobileNetV2, and InceptionV3 across 5,278 tea leaf samples. Achieved **99.00% test accuracy** with DenseNet201. Proved adversarial noise resilience (ε = 0 to 0.20) and verified pathological decision alignment through Grad-CAM and occlusion sensitivity heatmaps.
+My research centers on deep learning, explainable artificial intelligence (XAI), computer vision, and energy systems informatics. To explore my full catalog of published papers, preprints, citation metrics, and benchmark datasets, please visit my scholarly profiles:
 
-#### 2. [RetinaNet-Based Computer Vision Framework for Road Surface Pothole Detection and Spatial Localization](https://blogs.abirrahman26.me/?post=retinanet)
-- **Publication:** **Springer Lecture Notes in Networks and Systems (LNNS)**
-- **Authors:** Sadman Haque, Rafi Ahamed, Md. Julfiker Hossain, Sudeepta Mandal, **Md. Abir Rahman**.
-- **Summary:** Applied single-stage RetinaNet with Focal Loss and Feature Pyramid Networks (FPN) across multi-scale receptive fields (P3–P7) to eliminate foreground-background class imbalance for real-time municipal infrastructure monitoring.
+| Scholarly Portal | Link / Identifier | Scope |
+|:---|:---|:---|
+| 🎓 **Google Scholar** | [Md. Abir Rahman](https://scholar.google.com/citations?user=8XJ-exEAAAAJ) | Citation Index & Peer-Reviewed Publications |
+| 🔬 **ResearchGate** | [Md. Abir Rahman](https://www.researchgate.net/profile/Md-Rahman-1797) | Research Collaboration, Preprints & Full-Texts |
+| 🆔 **ORCID** | [`0009-0006-3013-1249`](https://orcid.org/0009-0006-3013-1249) | Verified Open Researcher & Contributor Record |
+| 📊 **Kaggle** | [@sakinofbd](https://www.kaggle.com/sakinofbd) | Datasets, Machine Learning Notebooks & Competitions |
 
-#### 3. [BengalGrid: An 11-Year Daily and Hourly Power Generation Dataset of Bangladesh with Energy Security Insights](https://doi.org/10.17632/vkybtfpmv6.2)
-- **Repository:** [Mendeley Data (DOI: 10.17632/vkybtfpmv6.2)](https://doi.org/10.17632/vkybtfpmv6.2) · **License:** CC BY 4.0 Open Access
-- **Authors:** Rafi Ahamed, **Md. Abir Rahman**, Sudeepta Mandal, Sidratul Moon Nafsin, Sadman Haque.
-- **Summary:** Open-access dataset curating **4,018 daily records** (2014–2024) and **96,432 hourly observations** from the Power Grid Company of Bangladesh (PGCB). Analyzed seasonal generation shifts, diurnal ramps, and renewable integration barriers.
+- 📊 **Citations Count:** `2`
+- 🕒 *[Last updated: 22 October, 2026]*
 
 ---
 
@@ -112,6 +110,9 @@ Over **800+ algorithmic problems solved** across international online judges:
 - 🌐 **Portfolio:** [abirrahman26.me](https://abirrahman26.me)
 - ✍️ **Blog:** [blogs.abirrahman26.me](https://blogs.abirrahman26.me)
 - 🎓 **Google Scholar:** [Md. Abir Rahman](https://scholar.google.com/citations?user=8XJ-exEAAAAJ)
+- 🔬 **ResearchGate:** [Md. Abir Rahman](https://www.researchgate.net/profile/Md-Rahman-1797)
+- 🆔 **ORCID:** [`0009-0006-3013-1249`](https://orcid.org/0009-0006-3013-1249)
+- 📊 **Kaggle:** [@sakinofbd](https://www.kaggle.com/sakinofbd)
 - 💼 **LinkedIn:** [linkedin.com/in/abirrahman26](https://linkedin.com/in/abirrahman26)
 - 📧 **Email:** [abirrahman.sakin@gmail.com](mailto:abirrahman.sakin@gmail.com)
 - 🐙 **GitHub:** [@abirrahman26](https://github.com/abirrahman26)
